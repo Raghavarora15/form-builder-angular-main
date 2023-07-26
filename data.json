@@ -1,0 +1,104 @@
+{
+  "formdata": [],
+  "formOnEdit": [],
+  "availableControls": [
+    {
+      "name": "Textbox",
+      "label": "TextBox",
+      "value": "",
+      "type": "textbox",
+      "controlType": "textbox",
+      "style": "outline",
+      "displayName": "Textbox",
+      "validators": {
+        "required": true,
+        "minLength": 3
+      }
+    },
+    {
+      "name": "button",
+      "label": "Button",
+      "value": "Submit",
+      "controlType": "button",
+      "type": "button",
+      "color": "primary",
+      "style": "mat-raised-button",
+      "displayName": "Button"
+    },
+    {
+      "name": "Number",
+      "label": "Number",
+      "value": "",
+      "controlType": "number",
+      "type": "number",
+      "style": "outline",
+      "displayName": "Number",
+      "validators": {
+        "required": true
+      }
+    },
+    {
+      "name": "Password",
+      "label": "Password",
+      "value": "",
+      "controlType": "password",
+      "type": "password",
+      "style": "outline",
+      "displayName": "Password",
+      "validators": {
+        "required": true,
+        "minLength": "6"
+      }
+    },
+    {
+      "name": "Textarea",
+      "label": "Textarea",
+      "value": "Some random text!!",
+      "controlType": "textarea",
+      "type": "textarea",
+      "style": "outline",
+      "displayName": "Textarea",
+      "validators": {}
+    },
+    {
+      "name": "checkbox",
+      "label": "Checkbox label",
+      "value": true,
+      "controlType": "checkbox",
+      "type": "checkbox",
+      "displayName": "Checkbox"
+    },
+    {
+      "name": "Radio",
+      "label": "Option 1",
+      "labelTwo": "Option 2",
+      "value": "ValueOne",
+      "valueTwo": "ValueTwo",
+      "controlType": "radio",
+      "type": "radio",
+      "displayName": "Radio"
+    }
+  ],
+  "savedForms": [
+    {
+      "actualForm": [
+        {
+          "name": "Number",
+          "label": "Number",
+          "value": "",
+          "controlType": "number",
+          "type": "number",
+          "style": "outline",
+          "displayName": "Number",
+          "validators": {
+            "required": true
+          },
+          "id": 1
+        }
+      ],
+      "id": "fa4a85cb-5e7e-403c-972c-9eeef836f174",
+      "date": "7/26/2023",
+      "name": "69"
+    }
+  ]
+}
